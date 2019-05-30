@@ -1,4 +1,4 @@
-# Parker_Chef_Dev_Prod CHANGELOG
+# Packer_Chef_Dev_Prod CHANGELOG
 
 This file is used to list changes made in each version of the Parker_Chef_Dev_Prod cookbook.
 
@@ -8,4 +8,3 @@ Initial release.
 
 - change 0
 - change 1
-
